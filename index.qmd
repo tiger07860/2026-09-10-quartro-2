@@ -1,0 +1,23 @@
+---
+title: "Habits"
+author: "Tahir Hussain"
+format: revealjs
+---
+
+# In the Morning
+
+## Getting Up
+
+- Turn off Alarm
+- Get out of bed
+
+### h3
+#### h4
+##### h5
+###### h6
+
+## Next Slide with a double hash
+
+```{r}
+4 + 3
+```
